@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "api",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "deepseekapi",
+      "database_id": "e2c4ef28-1d83-4ce9-8a48-74d17777ef35"
+    }
+  ]
+}
